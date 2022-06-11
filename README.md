@@ -1,6 +1,6 @@
 # [📈 Live Status](https://satoshihost.github.io/uptime): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [satoshihost](https://satoshihost.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
+this This repository contains the open-source uptime monitor and status page for [satoshihost](https://satoshihost.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/satoshihost/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/satoshihost/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/satoshihost/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/satoshihost/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
