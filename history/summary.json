@@ -4,18 +4,20 @@
     "url": "https://satoshihost.com/",
     "icon": "https://favicons.githubusercontent.com/satoshihost.com",
     "slug": "satoshi-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 1002,
-    "timeWeek": 1007,
-    "timeMonth": 975,
-    "timeYear": 963,
-    "dailyMinutesDown": {}
+    "time": 962,
+    "timeDay": 952,
+    "timeWeek": 994,
+    "timeMonth": 973,
+    "timeYear": 962,
+    "dailyMinutesDown": {
+      "2022-07-22": 0
+    }
   },
   {
     "name": "Click For Charity",
